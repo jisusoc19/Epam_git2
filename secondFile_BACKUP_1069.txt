@@ -9,8 +9,8 @@
 9
 10
 <<<<<<< HEAD
-una linea
-2 linea
+11
+12
 
 =======
 una linea
