@@ -1,0 +1,22 @@
+From 60c171b0fbaeebbd261404b799581a4ea9f17da4 Mon Sep 17 00:00:00 2001
+From: jisusoc19 <papati0582@gmail.com>
+Date: Wed, 27 Dec 2023 16:17:04 -0500
+Subject: [PATCH] punto 7
+
+---
+ firstFile.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..b1c914b 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -8,3 +8,5 @@
+ 8
+ 9
+ 10
++11-
++12-
+-- 
+2.43.0.windows.1
+
